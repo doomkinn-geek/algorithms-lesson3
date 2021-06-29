@@ -6,4 +6,8 @@
     <RootNamespace>algorithms_lesson3</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="BenchmarkDotNet" Version="0.13.0" />
+  </ItemGroup>
+
 </Project>
